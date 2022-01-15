@@ -1,0 +1,122 @@
+body {
+
+ background: url('img/klass.jpg');
+ background-repeat: no-repeat;
+
+}
+
+
+.header {
+
+  background: #2FA6E0;
+  width: 800px;
+  margin: 0 auto;
+  redshadow
+
+}
+    
+.header .logo img {
+
+  display: inline-block;
+  width: 80px;
+  animation-name:logo;
+  animation-duration:2s;
+  border-radius:5%;
+
+}
+.header .menu {
+
+  border-top: 1px solid white;
+  text-align: center;
+
+}
+
+.header .menu .button{
+
+  display: inline-block;
+  background: #CC181E;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Arial;
+
+}
+
+.header .menu .button:hover {
+
+  background: #A21318;
+
+}
+
+@keyframes logo {
+
+  0% {
+
+   transform: rotate(0deg);
+
+  }
+
+50% {
+
+    border-radius:20%;
+
+  }
+
+  100% {
+
+    transform: rotate(360deg);
+    border-radius:5%;
+
+  }
+  
+}
+
+
+p {
+
+font-size: 25px;
+text-shadow: 0px 0px 10px #375C09;
+
+}
+
+
+img {
+
+width: 50px;
+height: 50px;
+margin-left: 50px;
+border: 0.3px solid black;
+box-shadow: 1px 0px 10px black;
+
+}
+
+
+.adm {
+
+font-size: 10px;
+
+}
+
+
+.img_adm {
+
+width: 50px;
+height: 50px;
+border: none;
+
+}
+
+
+.tv {
+
+text-shadow: 0px 0px 10px darkred;
+
+}
+
+
+img:hover {
+    
+    font-size:50px;
+    
+}

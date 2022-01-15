@@ -1,0 +1,359 @@
+body {
+
+ background: url('img/sent.jpg');
+ background-repeat: no-repeat;
+
+}
+
+
+.header {
+
+  background: #2FA6E0;
+  width: 800px;
+  margin: 0 auto;
+  redshadow
+
+}
+    
+.header .logo img {
+
+  display: inline-block;
+  width: 80px;
+  animation-name:logo;
+  animation-duration:2s;
+  border-radius:5%;
+
+}
+.header .menu {
+
+  border-top: 1px solid white;
+  text-align: center;
+
+}
+
+.header .menu .button{
+
+  display: inline-block;
+  background: #CC181E;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Arial;
+
+}
+
+.header .menu .button:hover {
+
+  background: #A21318
+
+}
+
+@keyframes logo {
+
+  0% {
+
+   transform: rotate(0deg);
+
+  }
+
+50% {
+
+    border-radius:20%;
+
+  }
+
+  100% {
+
+    transform: rotate(360deg);
+    border-radius:5%;
+
+  }
+  
+}
+
+
+p {
+
+font-size: 25px;
+color: #8C79F5;
+
+}
+
+
+img {
+
+width: 50px;
+height: 50px;
+margin-left: 50px;
+border: 0.3px solid black;
+box-shadow: 1px 0px 10px black;
+
+}
+
+
+/*.img_1{
+
+animation-name: img1;
+animation-duration: 10s
+
+}
+
+
+.img_2{
+
+animation-name: img_2;
+animation-duration: 10s
+
+}
+
+
+.img_3{
+
+animation-name: img_3;
+animation-duration: 10s
+
+}
+
+
+.img_4{
+
+animation-name: img_4;
+animation-duration: 10s
+
+}
+
+
+.img_5{
+
+animation-name: img_5;
+animation-duration: 10s
+
+}
+
+
+.img_6{
+
+animation-name: img_6;
+animation-duration: 10s
+
+}
+
+
+.img_7{
+
+animation-name: img_7;
+animation-duration: 10s
+
+}
+
+
+.img_8{
+
+animation-name: img_8;
+animation-duration: 10s
+
+}
+
+
+.img_9{
+
+animation-name: img_9;
+animation-duration: 10s
+
+}
+
+
+.img_10{
+
+animation-name: img_10;
+animation-duration: 10s
+
+}
+
+
+.img_11{
+
+animation-name: img_11;
+animation-duration: 10s
+
+}
+
+
+.img_12{
+
+animation-name: img_12;
+animation-duration: 10s
+
+}
+
+
+.img_13{
+
+animation-name: img_13;
+animation-duration: 10s
+
+}
+
+
+.img_14{
+
+animation-name: img_14;
+animation-duration: 10s
+
+}
+
+
+.img_15{
+
+animation-name: img_15;
+animation-duration: 10s
+
+}
+
+
+.img_16{
+
+animation-name: img_16;
+animation-duration: 10s
+
+}
+
+
+.img_17{
+
+animation-name: img_17;
+animation-duration: 10s
+
+}
+
+
+.img_18{
+
+animation-name: img_18;
+animation-duration: 10s
+
+}
+
+
+.img_19{
+
+animation-name: img_19;
+animation-duration: 10s
+
+}
+
+
+.img_20{
+
+animation-name: img_20;
+animation-duration: 10s
+
+}
+
+
+.img_21{
+
+animation-name: img_21;
+animation-duration: 10s
+
+}
+
+
+.img_22{
+
+animation-name: img_22;
+animation-duration: 10s
+
+}
+
+
+.img_23{
+
+animation-name: img_23;
+animation-duration: 10s
+
+}
+
+
+.img_24{
+
+animation-name: img_24;
+animation-duration: 10s
+
+}
+
+
+.img_25{
+
+animation-name: img_25;
+animation-duration: 10s
+
+}
+
+
+.img_26{
+
+animation-name: img_26;
+animation-duration: 10s
+
+}
+
+
+.img_27{
+
+animation-name: img_27;
+animation-duration: 10s
+
+}
+
+
+.img_28{
+
+animation-name: img_28;
+animation-duration: 10s
+
+}
+
+
+.img_29{
+
+animation-name: img_29;
+animation-duration: 10s
+
+}
+
+
+.img_30{
+
+animation-name: img_30;
+animation-duration: 10s
+
+}
+
+
+.img_31{
+
+animation-name: img_31;
+animation-duration: 10s
+
+}
+
+
+@keyframes img_1 {
+
+0%{
+
+top: 0px;
+
+}
+
+
+100% {
+
+top: 1000px;
+position: absolute;
+
+}
+
+}*/

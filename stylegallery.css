@@ -1,0 +1,122 @@
+body {
+
+ /*bsackground: url('img/klass.jpg') no-repeat;*/https://files.000webhost.com/
+
+}
+
+
+.header {
+
+  background: #2FA6E0;
+  width: 800px;
+  margin: 0 auto;
+  redshadow
+
+}
+    
+.header .logo img {
+
+  display: inline-block;
+  width: 80px;
+  animation-name:logo;
+  animation-duration:2s;
+  border-radius:5%;
+
+}
+.header .menu {
+
+  border-top: 1px solid white;
+  text-align: center;
+
+}
+
+.header .menu .button{
+
+  display: inline-block;
+  background: #CC181E;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: Arial;
+
+}
+
+.header .menu .button:hover {
+
+  background: #A21318
+
+}
+
+@keyframes logo {
+
+  0% {
+
+   transform: rotate(0deg);
+
+  }
+
+50% {
+
+    border-radius:20%;
+
+  }
+
+  100% {
+
+    transform: rotate(360deg);
+    border-radius:5%;
+
+  }
+  
+}
+
+
+p {
+
+font-size: 25px;
+
+}
+
+
+.img1 {
+
+/*width: 150px;
+height: 150px;*/
+
+}
+
+
+.img2 {
+
+
+
+}
+
+
+.img3 {
+
+
+
+}
+
+
+.img4 {
+
+
+
+}
+
+
+.img5 {
+
+width: 100%;
+
+}
+
+
+.img6 {
+
+
+
+}
